@@ -8,6 +8,7 @@
 * change ip host to receive publicly connections: c.NotebookApp.ip = '*'
 * use a non conventional port: c.NotebookApp.port = 9999
 5. run jupyter and leave it open when you log off ie. use screen if linux
+6. using an external PC connected to the network, open browser and go to IP:PORT to access jupyter
 
 ### to "expose" the server to the network you need to do the following
 * IP - identify ip of host server (public ip if in cloud or if accessing from outside the network)
